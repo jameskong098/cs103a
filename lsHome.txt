@@ -1,0 +1,8 @@
+Desktop
+L04
+L05
+coursedata
+cs103a
+list.txt
+thesis
+words1.txt
